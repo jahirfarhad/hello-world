@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2> Deploying on a VM by Farhad </h2>
 <h2> Deployong on a container -  latest code </h2>
-<h2> Deployong on a container using ansible  </h2>
+<h2> Deployong on a container using Ansible  </h2>
